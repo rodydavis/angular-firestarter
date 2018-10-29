@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAc9Tt8pQQF3ntu2Tz66iUKl_fXHtdhIyc',
-    authDomain: 'firestarter-96e46.firebaseapp.com',
-    databaseURL: 'https://firestarter-96e46.firebaseio.com',
-    projectId: 'firestarter-96e46',
-    storageBucket: 'firestarter-96e46.appspot.com',
-    messagingSenderId: '581326886241'
+    apiKey: "AIzaSyDHfJ51iSjljlypmgo9vuiO8TwoBGa9Xlw",
+    authDomain: "songlist-pro.firebaseapp.com",
+    databaseURL: "https://songlist-pro.firebaseio.com",
+    projectId: "songlist-pro",
+    storageBucket: "songlist-pro.appspot.com",
+    messagingSenderId: "347513600134"
   }
 };
 
